@@ -22,3 +22,6 @@
 </div><br/>
 
 Formado em Engenharia de Produção, com mais de 06 anos de experiência profissional, hoje estou em processo de transição de carreira para área de tecnologia, onde atualmente estou cursando graduação em Análise e desenvolvimento de sistemas e em busca de posição no mercado nesta área.
+Contatos:
+lukasportela2@hotmail.com
+(81)991749667
