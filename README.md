@@ -9,7 +9,7 @@
 
 ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukasportela&show_icons=true&theme=radical)
 
-## Tecnologias que venho estududando durante o curso de Análise e desenvolvimento de sistemas 
+## Tecnologias que venho estudando durante o curso de Análise e desenvolvimento de sistemas 
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
